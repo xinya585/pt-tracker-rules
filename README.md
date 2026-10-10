@@ -10,13 +10,15 @@ PT 站点域名规则集，适用于 **Mihomo** (Clash Meta) / Clash 内核的�
 - 站点存活状态、当前域名、内/外站类型均取自该监测数据
 - 原社区整理 PT 站点配置文件用于补全覆盖
 
-## ⚠️ 重点 · 规则集链接
+## ⚠️ 重点 · 规则集链接（复制即用）
 
-> 规则集每日自动更新（北京时间 08:00），可直接填入 Mihomo 的 `rule-providers`。
+> **📦 国内PT站点**
+> `https://raw.githubusercontent.com/xinya585/pt-tracker-rules/main/pt_domestic.list`
 >
-> **国内PT站点**：`https://raw.githubusercontent.com/xinya585/pt-tracker-rules/main/pt_domestic.list`
+> **📦 国外PT站点**
+> `https://raw.githubusercontent.com/xinya585/pt-tracker-rules/main/pt_foreign.list`
 >
-> **国外PT站点**：`https://raw.githubusercontent.com/xinya585/pt-tracker-rules/main/pt_foreign.list`
+> 规则集**每日自动更新**（北京时间 08:00）。复制上方链接填入 Mihomo 的 `rule-providers` 即可使用。
 
 ## 文件说明
 
