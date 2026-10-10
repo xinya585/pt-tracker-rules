@@ -20,6 +20,10 @@ PT 站点域名规则集，适用于 **Mihomo** (Clash Meta) / Clash 内核的�
 >
 > 规则集**每日自动更新**（北京时间 08:00）。复制上方链接填入 Mihomo 的 `rule-providers` 即可使用。
 
+> 一张可直接分享的卡片版（点击放大）：
+>
+> ![PT规则集分享卡片](assets/pt-rule-card.png)
+
 ## 文件说明
 
 | 文件 | 分类 | 规则数 |
