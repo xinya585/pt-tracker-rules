@@ -1,0 +1,69 @@
+# PT 站点域名规则集 - 国外/国际 PT 站点
+# 数据来源: PT监护室(savept.icu) 2026-10-10 快照 + 社区整理
+# 状态说明: [病危]=监控异常暂不可达  [已关站]=已关站/死亡  [状态未知]=未监测到
+# 如需直连国内站点/避免国外站点IP变动触发风控, 可整组指向直连
+DOMAIN-SUFFIX,clearjav.com
+DOMAIN-SUFFIX,generation-free.org
+DOMAIN-SUFFIX,bitporn.eu
+DOMAIN-SUFFIX,fappaizuri.me
+DOMAIN-SUFFIX,happyfappy.net
+DOMAIN-SUFFIX,aither.cc
+DOMAIN-SUFFIX,lst.gg
+DOMAIN-SUFFIX,milkie.cc
+DOMAIN-SUFFIX,anthelion.me
+DOMAIN-SUFFIX,orpheus.network
+DOMAIN-SUFFIX,nebulance.io
+DOMAIN-SUFFIX,alpharatio.cc
+DOMAIN-SUFFIX,animez.to
+DOMAIN-SUFFIX,www.empornium.sx
+DOMAIN-SUFFIX,jpopsuki.eu
+DOMAIN-SUFFIX,www.myanonamouse.net
+DOMAIN-SUFFIX,brokenstones.is
+DOMAIN-SUFFIX,hd-torrents.org
+DOMAIN-SUFFIX,filelist.io
+DOMAIN-SUFFIX,exoticaz.to
+DOMAIN-SUFFIX,www.torrentleech.cc
+DOMAIN-SUFFIX,iptorrents.com
+DOMAIN-SUFFIX,sportscult.org
+DOMAIN-SUFFIX,beyond-hd.me
+DOMAIN-SUFFIX,ultrahd.net
+DOMAIN-SUFFIX,hawke.uno
+DOMAIN-SUFFIX,13city.org
+DOMAIN-SUFFIX,bit-hdtv.com
+DOMAIN-SUFFIX,blutopia.cc
+DOMAIN-SUFFIX,cinematik.net
+DOMAIN-SUFFIX,concertos.live
+DOMAIN-SUFFIX,danishbytes.club
+DOMAIN-SUFFIX,darkland.top
+DOMAIN-SUFFIX,datascene.xyz
+DOMAIN-SUFFIX,devtracker.me
+DOMAIN-SUFFIX,eiga.moi
+DOMAIN-SUFFIX,emuwarez.com
+DOMAIN-SUFFIX,gemini-tracker.org
+DOMAIN-SUFFIX,hd-united.vn
+DOMAIN-SUFFIX,hdbits.org
+DOMAIN-SUFFIX,hdroute.org
+DOMAIN-SUFFIX,hellenic-hd.cc
+DOMAIN-SUFFIX,homiehelpdesk.net
+DOMAIN-SUFFIX,karagarga.in
+DOMAIN-SUFFIX,kufirc.com
+DOMAIN-SUFFIX,lp-bits.com
+DOMAIN-SUFFIX,luminarr.me
+DOMAIN-SUFFIX,myspleen.org
+DOMAIN-SUFFIX,ncore.pro
+DOMAIN-SUFFIX,polishtorrent.top
+DOMAIN-SUFFIX,portugas.org
+DOMAIN-SUFFIX,racing4everyone.eu
+DOMAIN-SUFFIX,rastastugan.org
+DOMAIN-SUFFIX,redacted.sh
+DOMAIN-SUFFIX,reelflix.cc
+DOMAIN-SUFFIX,rocket-hd.cc
+DOMAIN-SUFFIX,rotorrent.info
+DOMAIN-SUFFIX,shareisland.org
+DOMAIN-SUFFIX,skipthecommercials.xyz
+DOMAIN-SUFFIX,t.ceskeforum.com
+DOMAIN-SUFFIX,tlzdigital.com
+DOMAIN-SUFFIX,torr9.xyz
+DOMAIN-SUFFIX,turkseed.com
+DOMAIN-SUFFIX,fearnopeer.com # [已关站]
+DOMAIN-SUFFIX,www.morethantv.me # [已关站]
