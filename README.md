@@ -4,6 +4,15 @@ PT 站点域名规则集，适用于 **Mihomo** (Clash Meta) / Clash 内核的�
 
 本仓库是 `maple-zh/pt-site-rulers` 的全新整理版：以 **PT监护室 (savept.icu)** 的实时监测数据为主体重建域名列表，并标注各站点健康状态，同时保留原社区整理的覆盖面。
 
+## 规则集链接
+
+可直接引用的规则源（用于 `rule-providers`）：
+
+```
+https://raw.githubusercontent.com/xinya585/pt-tracker-rules/main/pt_domestic.list
+https://raw.githubusercontent.com/xinya585/pt-tracker-rules/main/pt_foreign.list
+```
+
 ## 数据来源与时间
 
 - **PT监护室** (https://savept.icu) 快照：`2026-10-10`
@@ -34,7 +43,7 @@ PT 站点域名规则集，适用于 **Mihomo** (Clash Meta) / Clash 内核的�
 
 ### 1. 添加 rule-providers
 
-在 Mihomo 配置的 `rule-providers` 中添加（替换为你的用户名）：
+在 Mihomo 配置的 `rule-providers` 中添加：
 
 ```
 rule-providers:
@@ -43,14 +52,14 @@ rule-providers:
     behavior: classical
     format: text
     interval: 86400
-    url: "https://raw.githubusercontent.com/<你的用户名>/pt-tracker-rules/main/pt_domestic.list"
+    url: "https://raw.githubusercontent.com/xinya585/pt-tracker-rules/main/pt_domestic.list"
 
   pt_foreign:
     type: http
     behavior: classical
     format: text
     interval: 86400
-    url: "https://raw.githubusercontent.com/<你的用户名>/pt-tracker-rules/main/pt_foreign.list"
+    url: "https://raw.githubusercontent.com/xinya585/pt-tracker-rules/main/pt_foreign.list"
 ```
 
 ### 2. 添加 rules
