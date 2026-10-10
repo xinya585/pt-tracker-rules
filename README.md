@@ -4,6 +4,12 @@ PT 站点域名规则集，适用于 **Mihomo** (Clash Meta) / Clash 内核的�
 
 本仓库是 `maple-zh/pt-site-rulers` 的全新整理版：以 **PT监护室 (savept.icu)** 的实时监测数据为主体重建域名列表，并标注各站点健康状态，同时保留原社区整理的覆盖面。
 
+## 数据来源与时间
+
+- **PT监护室** (https://savept.icu) 快照：`2026-10-10`
+- 站点存活状态、当前域名、内/外站类型均取自该监测数据
+- 原社区整理 PT 站点配置文件用于补全覆盖
+
 ## 规则集链接
 
 可直接引用的规则源（用于 `rule-providers`）：
@@ -13,19 +19,13 @@ https://raw.githubusercontent.com/xinya585/pt-tracker-rules/main/pt_domestic.lis
 https://raw.githubusercontent.com/xinya585/pt-tracker-rules/main/pt_foreign.list
 ```
 
-## 数据来源与时间
-
-- **PT监护室** (https://savept.icu) 快照：`2026-10-10`
-- 站点存活状态、当前域名、内/外站类型均取自该监测数据
-- 原社区整理 PT 站点配置文件用于补全覆盖
-
 ## 文件说明
 
 | 文件 | 分类 | 规则数 |
 |---|---|---|
-| `pt_domestic.list` | 国内 PT 站点 | 180 |
+| `pt_domestic.list` | 国内 PT 站点 | 182 |
 | `pt_foreign.list` | 国外 / 国际 PT 站点 | 65 |
-| **合计** | | **245** |
+| **合计** | | **247** |
 
 > 规则均为 `DOMAIN-SUFFIX` 格式（自动匹配子域）。国内列表含主站与备用/API 域名（如 m-team、xingyunge 系列）。
 
@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/xinya585/pt-tracker-rules/main/pt_foreign.list
 
 ### 1. 添加 rule-providers
 
-在 Mihomo 配置的 `rule-providers` 中添加：
+在 Mihomo 配置的 `rule-providers` 中添加（替换为你的用户名）：
 
 ```
 rule-providers:
