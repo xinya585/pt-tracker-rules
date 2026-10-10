@@ -3,62 +3,66 @@
 # 状态说明: [病危]=监控异常暂不可达  [已关站]=已关站/死亡  [状态未知]=未监测到
 # 如需直连国内站点/避免国外站点IP变动触发风控, 可整组指向直连
 DOMAIN-SUFFIX,1ptba.com
-DOMAIN-SUFFIX,www.52movie.top
 DOMAIN-SUFFIX,52pt.site
-DOMAIN-SUFFIX,pt.agsvpt.cn
-DOMAIN-SUFFIX,agsvpt.com
 DOMAIN-SUFFIX,abroad.agsvpt.com
+DOMAIN-SUFFIX,agsvpt.com
 DOMAIN-SUFFIX,api.m-team.cc
-DOMAIN-SUFFIX,kp.m-team.cc
-DOMAIN-SUFFIX,mtapi.m-team.cc
 DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,azusa.wiki
 DOMAIN-SUFFIX,bilibili.download
+DOMAIN-SUFFIX,byr.pt # [状态未知]
 DOMAIN-SUFFIX,cangbao.ge
 DOMAIN-SUFFIX,carpt.net
 DOMAIN-SUFFIX,cc.mypt.cc
+DOMAIN-SUFFIX,cf.hdkylin.com
+DOMAIN-SUFFIX,club.hares.top # [已关站]
 DOMAIN-SUFFIX,crabpt.vip
 DOMAIN-SUFFIX,cspt.top
 DOMAIN-SUFFIX,cyanbug.net
+DOMAIN-SUFFIX,dajiao.cyou # [已关站]
 DOMAIN-SUFFIX,dicmusic.com
 DOMAIN-SUFFIX,discfan.net
-DOMAIN-SUFFIX,www.dragonhd.xyz
+DOMAIN-SUFFIX,dstudio.me
 DOMAIN-SUFFIX,dubhe.site
 DOMAIN-SUFFIX,duckboobee.org
 DOMAIN-SUFFIX,et8.org
-DOMAIN-SUFFIX,pt.0ff.cc
-DOMAIN-SUFFIX,www.gamegamept.com
+DOMAIN-SUFFIX,fsm.name # [已关站]
+DOMAIN-SUFFIX,gainbound.net # [已关站]
 DOMAIN-SUFFIX,greatposterwall.com
-DOMAIN-SUFFIX,www.haidan.cc
 DOMAIN-SUFFIX,hdarea.club
+DOMAIN-SUFFIX,hdatmos.club # [已关站]
 DOMAIN-SUFFIX,hdbao.cc
+DOMAIN-SUFFIX,hdchina.org # [已关站]
 DOMAIN-SUFFIX,hdcity.city
 DOMAIN-SUFFIX,hdcity.work
-DOMAIN-SUFFIX,www.hddolby.com
 DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,hdfun.me
 DOMAIN-SUFFIX,hdhome.org
 DOMAIN-SUFFIX,hdkyl.in
-DOMAIN-SUFFIX,www.hdkyl.in
-DOMAIN-SUFFIX,na.hdkylin.com
-DOMAIN-SUFFIX,cf.hdkylin.com
+DOMAIN-SUFFIX,hdpt.xyz # [已关站]
 DOMAIN-SUFFIX,hdsky.me
 DOMAIN-SUFFIX,hdtime.org
-DOMAIN-SUFFIX,hdvideo.top
 DOMAIN-SUFFIX,hdvideo.one
+DOMAIN-SUFFIX,hdvideo.top
 DOMAIN-SUFFIX,hhanclub.net
-DOMAIN-SUFFIX,www.hitpt.com
+DOMAIN-SUFFIX,hspt.club # [已关站]
 DOMAIN-SUFFIX,htpt.cc
-DOMAIN-SUFFIX,www.hxpt.org
+DOMAIN-SUFFIX,hudbt.hust.edu.cn # [状态未知]
 DOMAIN-SUFFIX,kamept.com
+DOMAIN-SUFFIX,kp.m-team.cc
+DOMAIN-SUFFIX,kufei.org # [病危]
+DOMAIN-SUFFIX,leaves.red # [已关站]
+DOMAIN-SUFFIX,lemonhd.club # [已关站]
 DOMAIN-SUFFIX,lemonhd.net
+DOMAIN-SUFFIX,lemonhd.org # [已关站]
 DOMAIN-SUFFIX,longpt.org
-DOMAIN-SUFFIX,www.momentpt.top
 DOMAIN-SUFFIX,monikadesign.uk
+DOMAIN-SUFFIX,mooko.org # [已关站]
+DOMAIN-SUFFIX,mtapi.m-team.cc
 DOMAIN-SUFFIX,mua.xloli.cc
+DOMAIN-SUFFIX,na.hdkylin.com
 DOMAIN-SUFFIX,nanyangpt.com
 DOMAIN-SUFFIX,naturept.top
-DOMAIN-SUFFIX,zrpt.cc
 DOMAIN-SUFFIX,new.qingwa.pro
 DOMAIN-SUFFIX,nex.jivon.de
 DOMAIN-SUFFIX,nicept.net
@@ -74,43 +78,55 @@ DOMAIN-SUFFIX,pandapt.net
 DOMAIN-SUFFIX,piggo.me
 DOMAIN-SUFFIX,playlet.cc
 DOMAIN-SUFFIX,playletpt.xyz
+DOMAIN-SUFFIX,pt.0ff.cc
+DOMAIN-SUFFIX,pt.agsvpt.cn
 DOMAIN-SUFFIX,pt.aling.de
 DOMAIN-SUFFIX,pt.btschool.club
+DOMAIN-SUFFIX,pt.cdfile.org # [已关站]
+DOMAIN-SUFFIX,pt.cdy.pics # [已关站]
 DOMAIN-SUFFIX,pt.daxiangjiao.org
 DOMAIN-SUFFIX,pt.eastgame.org
 DOMAIN-SUFFIX,pt.ecust.pp.ua
-DOMAIN-SUFFIX,public.ecustpt.eu.org
-DOMAIN-SUFFIX,pt.gtkpw.xyz
 DOMAIN-SUFFIX,pt.gtk.pw
-DOMAIN-SUFFIX,pt.hdclone.top
+DOMAIN-SUFFIX,pt.gtkpw.xyz
+DOMAIN-SUFFIX,pt.hd4fans.org # [已关站]
 DOMAIN-SUFFIX,pt.hdclone.org
+DOMAIN-SUFFIX,pt.hdclone.top
 DOMAIN-SUFFIX,pt.hdpost.top
 DOMAIN-SUFFIX,pt.hdupt.com
+DOMAIN-SUFFIX,pt.itzmx.com
 DOMAIN-SUFFIX,pt.keepfrds.com
 DOMAIN-SUFFIX,pt.lajidui.top
 DOMAIN-SUFFIX,pt.luckpt.de
-DOMAIN-SUFFIX,tracker.novahd.top
+DOMAIN-SUFFIX,pt.muxuege.org # [病危]
+DOMAIN-SUFFIX,pt.mypt.cc
 DOMAIN-SUFFIX,pt.novahd.top
 DOMAIN-SUFFIX,pt.ourhelp.club
 DOMAIN-SUFFIX,pt.sjtu.edu.cn
 DOMAIN-SUFFIX,pt.soulvoice.club
 DOMAIN-SUFFIX,pt.tey.cc
-DOMAIN-SUFFIX,pt.xingyungept.org
+DOMAIN-SUFFIX,pt.tu88.men # [状态未知]
+DOMAIN-SUFFIX,pt.vclib.online
 DOMAIN-SUFFIX,pt.xingyungept.cn
-DOMAIN-SUFFIX,xing.xingyunge.sbs
-DOMAIN-SUFFIX,xingyungept.org
+DOMAIN-SUFFIX,pt.xingyungept.org
+DOMAIN-SUFFIX,pt.ying.us.kg # [病危]
 DOMAIN-SUFFIX,ptcafe.club
 DOMAIN-SUFFIX,ptchdbits.co
+DOMAIN-SUFFIX,ptchina.org # [已关站]
 DOMAIN-SUFFIX,pterclub.com
 DOMAIN-SUFFIX,pterclub.net
 DOMAIN-SUFFIX,ptfans.cc
 DOMAIN-SUFFIX,pthome.net
+DOMAIN-SUFFIX,ptlao.top
 DOMAIN-SUFFIX,ptlgs.org
+DOMAIN-SUFFIX,ptneko.com
 DOMAIN-SUFFIX,ptsbao.club
-DOMAIN-SUFFIX,ptskit.org
 DOMAIN-SUFFIX,ptskit.com
-DOMAIN-SUFFIX,www.ptzone.xyz
+DOMAIN-SUFFIX,ptskit.org
+DOMAIN-SUFFIX,ptvicomo.net # [已关站]
+DOMAIN-SUFFIX,public.ecustpt.eu.org
 DOMAIN-SUFFIX,qingwapt.com
+DOMAIN-SUFFIX,raingfh.top # [已关站]
 DOMAIN-SUFFIX,rousi.pro
 DOMAIN-SUFFIX,sanpro.pw
 DOMAIN-SUFFIX,sbpt.link
@@ -122,63 +138,49 @@ DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,srvfi.top
 DOMAIN-SUFFIX,star-space.net
 DOMAIN-SUFFIX,sunnypt.top
+DOMAIN-SUFFIX,t.tosky.club # [已关站]
 DOMAIN-SUFFIX,tangpt.top
 DOMAIN-SUFFIX,tjupt.org
+DOMAIN-SUFFIX,tmpt.top # [已关站]
 DOMAIN-SUFFIX,tokyopt.xyz
 DOMAIN-SUFFIX,torrenthub.club
 DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,tracker.52dic.vip
 DOMAIN-SUFFIX,tracker.hqmusic.info
+DOMAIN-SUFFIX,tracker.novahd.top
 DOMAIN-SUFFIX,u2.dmhy.org
+DOMAIN-SUFFIX,ubits.club
+DOMAIN-SUFFIX,web.yemapt.org
+DOMAIN-SUFFIX,wintersakura.net # [病危]
 DOMAIN-SUFFIX,wukongwendao.top
+DOMAIN-SUFFIX,www.52movie.top
+DOMAIN-SUFFIX,www.asmrpt.org # [已关站]
+DOMAIN-SUFFIX,www.beitai.pt # [已关站]
+DOMAIN-SUFFIX,www.dragonhd.xyz
+DOMAIN-SUFFIX,www.gamegamept.com
+DOMAIN-SUFFIX,www.haidan.cc
+DOMAIN-SUFFIX,www.hddolby.com
+DOMAIN-SUFFIX,www.hdkyl.in
+DOMAIN-SUFFIX,www.hitpt.com
+DOMAIN-SUFFIX,www.hxpt.org
+DOMAIN-SUFFIX,www.icc2022.com # [已关站]
+DOMAIN-SUFFIX,www.joyhd.net # [已关站]
+DOMAIN-SUFFIX,www.momentpt.top
+DOMAIN-SUFFIX,www.musopia.vip
+DOMAIN-SUFFIX,www.ptlover.cc # [已关站]
+DOMAIN-SUFFIX,www.pttime.org
+DOMAIN-SUFFIX,www.ptzone.xyz
+DOMAIN-SUFFIX,www.tokyo-manga.top
+DOMAIN-SUFFIX,xdypt.vip
+DOMAIN-SUFFIX,xing.xingyunge.sbs
 DOMAIN-SUFFIX,xingtan.one
 DOMAIN-SUFFIX,xingwan.cc
-DOMAIN-SUFFIX,web.yemapt.org
+DOMAIN-SUFFIX,xingyungept.org
 DOMAIN-SUFFIX,yemapt.org
+DOMAIN-SUFFIX,yhpp.cc # [已关站]
 DOMAIN-SUFFIX,zeus.hamsters.space
 DOMAIN-SUFFIX,zhuque.in
 DOMAIN-SUFFIX,zimiao.icu
 DOMAIN-SUFFIX,zmpt.cc
 DOMAIN-SUFFIX,zmpt.club
-DOMAIN-SUFFIX,gainbound.net
-DOMAIN-SUFFIX,club.hares.top
-DOMAIN-SUFFIX,www.tokyo-manga.top
-DOMAIN-SUFFIX,ptlao.top
-DOMAIN-SUFFIX,ptneko.com
-DOMAIN-SUFFIX,pt.itzmx.com
-DOMAIN-SUFFIX,www.pttime.org
-DOMAIN-SUFFIX,dstudio.me
-DOMAIN-SUFFIX,www.musopia.vip
-DOMAIN-SUFFIX,pt.vclib.online
-DOMAIN-SUFFIX,xdypt.vip
-DOMAIN-SUFFIX,hudbt.hust.edu.cn # [状态未知]
-DOMAIN-SUFFIX,byr.pt # [状态未知]
-DOMAIN-SUFFIX,pt.tu88.men # [状态未知]
-DOMAIN-SUFFIX,kufei.org # [病危]
-DOMAIN-SUFFIX,pt.muxuege.org # [病危]
-DOMAIN-SUFFIX,pt.ying.us.kg # [病危]
-DOMAIN-SUFFIX,wintersakura.net # [病危]
-DOMAIN-SUFFIX,www.beitai.pt # [已关站]
-DOMAIN-SUFFIX,dajiao.cyou # [已关站]
-DOMAIN-SUFFIX,fsm.name # [已关站]
-DOMAIN-SUFFIX,hdatmos.club # [已关站]
-DOMAIN-SUFFIX,hdpt.xyz # [已关站]
-DOMAIN-SUFFIX,hspt.club # [已关站]
-DOMAIN-SUFFIX,www.icc2022.com # [已关站]
-DOMAIN-SUFFIX,www.joyhd.net # [已关站]
-DOMAIN-SUFFIX,leaves.red # [已关站]
-DOMAIN-SUFFIX,lemonhd.club # [已关站]
-DOMAIN-SUFFIX,www.ptlover.cc # [已关站]
-DOMAIN-SUFFIX,ptvicomo.net # [已关站]
-DOMAIN-SUFFIX,raingfh.top # [已关站]
-DOMAIN-SUFFIX,t.tosky.club # [已关站]
-DOMAIN-SUFFIX,tmpt.top # [已关站]
-DOMAIN-SUFFIX,yhpp.cc # [已关站]
-DOMAIN-SUFFIX,www.asmrpt.org # [已关站]
-DOMAIN-SUFFIX,mooko.org # [已关站]
-DOMAIN-SUFFIX,pt.cdy.pics # [已关站]
-DOMAIN-SUFFIX,ptchina.org # [已关站]
-DOMAIN-SUFFIX,hdchina.org # [已关站]
-DOMAIN-SUFFIX,pt.cdfile.org # [已关站]
-DOMAIN-SUFFIX,pt.hd4fans.org # [已关站]
-DOMAIN-SUFFIX,lemonhd.org # [已关站]
+DOMAIN-SUFFIX,zrpt.cc
