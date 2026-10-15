@@ -32,13 +32,13 @@ hdbao.cc,domestic,online,HDBao
 hdchina.org,domestic,offline,HDChina - 瓷器
 hdcity.city,domestic,online,HDCity
 hdcity.work,domestic,online,
-hdfans.org,domestic,online,HDFans - 红豆饭
+hdfans.org,domestic,down,HDFans - 红豆饭
 hdfun.me,domestic,online,
 hdhome.org,domestic,online,HDHome - 家园
 hdkyl.in,domestic,online,HDKylin - 麒麟
 hdpt.xyz,domestic,offline,HDPT - 明教
 hdsky.me,domestic,online,HDSky - 天空
-hdtime.org,domestic,down,HDTime - 时光
+hdtime.org,domestic,online,HDTime - 时光
 hdvideo.one,domestic,online,
 hdvideo.top,domestic,online,HDVideo
 hhanclub.net,domestic,online,HHanClub - 憨憨
@@ -111,7 +111,7 @@ ptcafe.club,domestic,online,PTCafe - 咖啡
 ptchdbits.co,domestic,online,CHDbits - 彩虹岛
 ptchina.org,domestic,offline,PTChina - 铂金学院
 pterclub.com,domestic,online,
-pterclub.net,domestic,down,PterClub - 猫站
+pterclub.net,domestic,online,PterClub - 猫站
 ptfans.cc,domestic,online,PTFans
 pthome.net,domestic,online,PTHome - 铂金家
 ptlao.top,domestic,down,PTLAO - 忘年桥
@@ -148,11 +148,12 @@ tracker.novahd.top,domestic,online,NovaHD - 星云
 u2.dmhy.org,domestic,online,U2
 ubits.club,domestic,online,Ubits - U堡
 web.yemapt.org,domestic,online,YemaPT - 野马
-wintersakura.net,domestic,down,WinterSakura - 冬樱
+wintersakura.net,domestic,online,WinterSakura - 冬樱
 wukongwendao.top,domestic,online,
 www.52movie.top,domestic,online,52movie
 www.asmrpt.org,domestic,offline,ASMR PT
 www.beitai.pt,domestic,offline,Beitai - 备胎
+www.colapt.com,domestic,online,ColaPT - 可乐
 www.dragonhd.xyz,domestic,online,DragonHD - 龍之家
 www.gamegamept.com,domestic,online,GGPT
 www.haidan.cc,domestic,online,HaiDan - 海胆
