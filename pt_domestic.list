@@ -1,5 +1,5 @@
 # PT 站点域名规则集 - 国内 PT 站点
-# 数据来源: PT监护室(savept.icu) 2026-10-16 快照 + 社区整理
+# 数据来源: PT监护室(savept.icu) 2026-10-17 快照 + 社区整理
 # 状态说明: [病危]=监控异常暂不可达  [已关站]=已关站/死亡  [状态未知]=未监测到
 # 如需直连国内站点/避免国外站点IP变动触发风控, 可整组指向直连
 DOMAIN-SUFFIX,1ptba.com
@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,agsvpt.com
 DOMAIN-SUFFIX,api.m-team.cc
 DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,azusa.wiki
-DOMAIN-SUFFIX,bilibili.download
+DOMAIN-SUFFIX,bilibili.download # [病危]
 DOMAIN-SUFFIX,byr.pt # [状态未知]
 DOMAIN-SUFFIX,cangbao.ge
 DOMAIN-SUFFIX,carpt.net
@@ -46,7 +46,7 @@ DOMAIN-SUFFIX,hdvideo.one
 DOMAIN-SUFFIX,hdvideo.top
 DOMAIN-SUFFIX,hhanclub.net
 DOMAIN-SUFFIX,hspt.club # [已关站]
-DOMAIN-SUFFIX,htpt.cc
+DOMAIN-SUFFIX,htpt.cc # [病危]
 DOMAIN-SUFFIX,hudbt.hust.edu.cn # [状态未知]
 DOMAIN-SUFFIX,kamept.com
 DOMAIN-SUFFIX,kp.m-team.cc
@@ -117,7 +117,7 @@ DOMAIN-SUFFIX,pterclub.com
 DOMAIN-SUFFIX,pterclub.net
 DOMAIN-SUFFIX,ptfans.cc
 DOMAIN-SUFFIX,pthome.net
-DOMAIN-SUFFIX,ptlao.top # [病危]
+DOMAIN-SUFFIX,ptlao.top
 DOMAIN-SUFFIX,ptlgs.org
 DOMAIN-SUFFIX,ptneko.com
 DOMAIN-SUFFIX,ptsbao.club # [病危]
