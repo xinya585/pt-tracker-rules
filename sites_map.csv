@@ -35,12 +35,12 @@ hdcity.work,domestic,online,
 hdfans.org,domestic,online,HDFans - 红豆饭
 hdfun.me,domestic,online,
 hdhome.org,domestic,online,HDHome - 家园
-hdkyl.in,domestic,down,HDKylin - 麒麟
+hdkyl.in,domestic,online,HDKylin - 麒麟
 hdpt.xyz,domestic,offline,HDPT - 明教
 hdsky.me,domestic,online,HDSky - 天空
 hdtime.org,domestic,online,HDTime - 时光
 hdvideo.one,domestic,online,
-hdvideo.top,domestic,online,HDVideo
+hdvideo.top,domestic,down,HDVideo
 hhanclub.net,domestic,online,HHanClub - 憨憨
 hspt.club,domestic,offline,HSPT - 回声
 htpt.cc,domestic,online,HTPT - 海棠
@@ -150,21 +150,21 @@ ubits.club,domestic,online,Ubits - U堡
 web.yemapt.org,domestic,online,YemaPT - 野马
 wintersakura.net,domestic,online,WinterSakura - 冬樱
 wukongwendao.top,domestic,online,
-www.52movie.top,domestic,online,52movie
+www.52movie.top,domestic,offline,52movie
 www.asmrpt.org,domestic,offline,ASMR PT
 www.beitai.pt,domestic,offline,Beitai - 备胎
 www.colapt.com,domestic,online,ColaPT - 可乐
 www.dragonhd.xyz,domestic,online,DragonHD - 龍之家
 www.gamegamept.com,domestic,online,GGPT
 www.haidan.cc,domestic,online,HaiDan - 海胆
-www.hddolby.com,domestic,online,HDDolby - 杜比
-www.hdkyl.in,domestic,down,HDKylin - 麒麟
+www.hddolby.com,domestic,down,HDDolby - 杜比
+www.hdkyl.in,domestic,online,HDKylin - 麒麟
 www.hitpt.com,domestic,online,HitPT - 百川
 www.hxpt.org,domestic,online,HXPT - 好学
 www.icc2022.com,domestic,offline,ICC2022 - 冰淇淋
 www.joyhd.net,domestic,offline,JoyHD
 www.momentpt.top,domestic,online,MomentPT - 瞬间
-www.musopia.vip,domestic,down,音乐乌托邦
+www.musopia.vip,domestic,online,音乐乌托邦
 www.ptlover.cc,domestic,offline,Afun
 www.pttime.org,domestic,online,PTTime - 时间
 www.ptzone.xyz,domestic,online,PTZone
@@ -186,7 +186,7 @@ zrpt.cc,domestic,online,
 aither.cc,foreign,online,Aither
 alpharatio.cc,foreign,online,AlphaRatio
 animez.to,foreign,online,AnimeZ
-anthelion.me,foreign,online,Anthelion
+anthelion.me,foreign,down,Anthelion
 beyond-hd.me,foreign,online,BeyondHD
 bit-hdtv.com,foreign,online,
 bitporn.eu,foreign,online,BitPorn
@@ -225,7 +225,7 @@ luminarr.me,foreign,online,
 milkie.cc,foreign,online,Milkie - 奶昔
 myspleen.org,foreign,online,
 ncore.pro,foreign,online,
-nebulance.io,foreign,online,Nebulance
+nebulance.io,foreign,down,Nebulance
 orpheus.network,foreign,online,Orpheus
 polishtorrent.top,foreign,online,
 portugas.org,foreign,online,
@@ -242,7 +242,7 @@ t.ceskeforum.com,foreign,online,
 tlzdigital.com,foreign,online,
 torr9.xyz,foreign,online,
 turkseed.com,foreign,online,
-ultrahd.net,foreign,down,UltraHD
+ultrahd.net,foreign,online,UltraHD
 www.empornium.sx,foreign,online,Empornium - 峨眉派
 www.morethantv.me,foreign,offline,MoreThanTV
 www.myanonamouse.net,foreign,online,MyAnonamouse
