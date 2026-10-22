@@ -1,5 +1,5 @@
 # PT 站点域名规则集 - 国内 PT 站点
-# 数据来源: PT监护室(savept.icu) 2026-10-21 快照 + 社区整理
+# 数据来源: PT监护室(savept.icu) 2026-10-22 快照 + 社区整理
 # 状态说明: [病危]=监控异常暂不可达  [已关站]=已关站/死亡  [状态未知]=未监测到
 # 如需直连国内站点/避免国外站点IP变动触发风控, 可整组指向直连
 DOMAIN-SUFFIX,1ptba.com
@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,agsvpt.com
 DOMAIN-SUFFIX,api.m-team.cc
 DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,azusa.wiki
-DOMAIN-SUFFIX,bilibili.download # [病危]
+DOMAIN-SUFFIX,bilibili.download
 DOMAIN-SUFFIX,byr.pt # [状态未知]
 DOMAIN-SUFFIX,cangbao.ge
 DOMAIN-SUFFIX,carpt.net
@@ -17,10 +17,10 @@ DOMAIN-SUFFIX,cc.mypt.cc
 DOMAIN-SUFFIX,cf.hdkylin.com
 DOMAIN-SUFFIX,club.hares.top # [已关站]
 DOMAIN-SUFFIX,crabpt.vip
-DOMAIN-SUFFIX,cspt.top
+DOMAIN-SUFFIX,cspt.top # [病危]
 DOMAIN-SUFFIX,cyanbug.net
 DOMAIN-SUFFIX,dajiao.cyou # [已关站]
-DOMAIN-SUFFIX,dicmusic.com
+DOMAIN-SUFFIX,dicmusic.com # [病危]
 DOMAIN-SUFFIX,discfan.net
 DOMAIN-SUFFIX,dstudio.me
 DOMAIN-SUFFIX,dubhe.site
@@ -41,7 +41,7 @@ DOMAIN-SUFFIX,hdhome.org
 DOMAIN-SUFFIX,hdkyl.in
 DOMAIN-SUFFIX,hdpt.xyz # [已关站]
 DOMAIN-SUFFIX,hdsky.me
-DOMAIN-SUFFIX,hdtime.org
+DOMAIN-SUFFIX,hdtime.org # [病危]
 DOMAIN-SUFFIX,hdvideo.one
 DOMAIN-SUFFIX,hdvideo.top # [病危]
 DOMAIN-SUFFIX,hhanclub.net
@@ -55,7 +55,7 @@ DOMAIN-SUFFIX,leaves.red # [已关站]
 DOMAIN-SUFFIX,lemonhd.club # [已关站]
 DOMAIN-SUFFIX,lemonhd.net
 DOMAIN-SUFFIX,lemonhd.org # [已关站]
-DOMAIN-SUFFIX,longpt.org
+DOMAIN-SUFFIX,longpt.org # [病危]
 DOMAIN-SUFFIX,monikadesign.uk
 DOMAIN-SUFFIX,mooko.org # [已关站]
 DOMAIN-SUFFIX,mtapi.m-team.cc
@@ -65,7 +65,7 @@ DOMAIN-SUFFIX,nanyangpt.com
 DOMAIN-SUFFIX,naturept.top
 DOMAIN-SUFFIX,new.qingwa.pro
 DOMAIN-SUFFIX,nex.jivon.de
-DOMAIN-SUFFIX,nicept.net
+DOMAIN-SUFFIX,nicept.net # [病危]
 DOMAIN-SUFFIX,njtupt.top
 DOMAIN-SUFFIX,okpt.net
 DOMAIN-SUFFIX,oldtoons.world
@@ -93,7 +93,7 @@ DOMAIN-SUFFIX,pt.hd4fans.org # [已关站]
 DOMAIN-SUFFIX,pt.hdclone.org
 DOMAIN-SUFFIX,pt.hdclone.top
 DOMAIN-SUFFIX,pt.hdpost.top
-DOMAIN-SUFFIX,pt.hdupt.com # [病危]
+DOMAIN-SUFFIX,pt.hdupt.com
 DOMAIN-SUFFIX,pt.itzmx.com
 DOMAIN-SUFFIX,pt.keepfrds.com
 DOMAIN-SUFFIX,pt.lajidui.top
@@ -108,13 +108,13 @@ DOMAIN-SUFFIX,pt.tey.cc
 DOMAIN-SUFFIX,pt.tu88.men # [状态未知]
 DOMAIN-SUFFIX,pt.vclib.online
 DOMAIN-SUFFIX,pt.xingyungept.cn
-DOMAIN-SUFFIX,pt.xingyungept.org
+DOMAIN-SUFFIX,pt.xingyungept.org # [病危]
 DOMAIN-SUFFIX,pt.ying.us.kg # [已关站]
 DOMAIN-SUFFIX,ptcafe.club
-DOMAIN-SUFFIX,ptchdbits.co
+DOMAIN-SUFFIX,ptchdbits.co # [病危]
 DOMAIN-SUFFIX,ptchina.org # [已关站]
 DOMAIN-SUFFIX,pterclub.com
-DOMAIN-SUFFIX,pterclub.net
+DOMAIN-SUFFIX,pterclub.net # [病危]
 DOMAIN-SUFFIX,ptfans.cc
 DOMAIN-SUFFIX,pthome.net
 DOMAIN-SUFFIX,ptlao.top
@@ -129,7 +129,7 @@ DOMAIN-SUFFIX,qingwapt.com
 DOMAIN-SUFFIX,raingfh.top # [已关站]
 DOMAIN-SUFFIX,rousi.pro
 DOMAIN-SUFFIX,sanpro.pw
-DOMAIN-SUFFIX,sbpt.link
+DOMAIN-SUFFIX,sbpt.link # [病危]
 DOMAIN-SUFFIX,sewerpt.com
 DOMAIN-SUFFIX,share.dmhy.org
 DOMAIN-SUFFIX,share.ilolicon.com
@@ -170,7 +170,7 @@ DOMAIN-SUFFIX,www.momentpt.top
 DOMAIN-SUFFIX,www.musopia.vip
 DOMAIN-SUFFIX,www.ptlover.cc # [已关站]
 DOMAIN-SUFFIX,www.pttime.org
-DOMAIN-SUFFIX,www.ptzone.xyz
+DOMAIN-SUFFIX,www.ptzone.xyz # [病危]
 DOMAIN-SUFFIX,www.tokyo-manga.top
 DOMAIN-SUFFIX,xdypt.vip
 DOMAIN-SUFFIX,xing.xingyunge.sbs
