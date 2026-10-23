@@ -6,7 +6,7 @@ agsvpt.com,domestic,online,
 api.m-team.cc,domestic,online,
 audiences.me,domestic,online,Audiences - 观众
 azusa.wiki,domestic,online,Azusa - 梓喵
-bilibili.download,domestic,online,Railgun
+bilibili.download,domestic,down,Railgun
 byr.pt,domestic,unknown,
 cangbao.ge,domestic,online,CangBaoGe - 藏宝阁
 carpt.net,domestic,online,CarPT - 车站
@@ -38,7 +38,7 @@ hdhome.org,domestic,online,HDHome - 家园
 hdkyl.in,domestic,online,HDKylin - 麒麟
 hdpt.xyz,domestic,offline,HDPT - 明教
 hdsky.me,domestic,online,HDSky - 天空
-hdtime.org,domestic,down,HDTime - 时光
+hdtime.org,domestic,online,HDTime - 时光
 hdvideo.one,domestic,online,
 hdvideo.top,domestic,down,HDVideo
 hhanclub.net,domestic,online,HHanClub - 憨憨
@@ -47,12 +47,12 @@ htpt.cc,domestic,online,HTPT - 海棠
 hudbt.hust.edu.cn,domestic,unknown,HUDBT - 蝴蝶
 kamept.com,domestic,online,KamePT - 龟站
 kp.m-team.cc,domestic,online,M-Team - 馒头
-kufei.org,domestic,online,Kufei - 库非
+kufei.org,domestic,down,Kufei - 库非
 leaves.red,domestic,offline,RedLeaves - 红叶
 lemonhd.club,domestic,offline,LemonHD - 柠檬不酸
 lemonhd.net,domestic,online,LemonHDNet - 柠檬不甜
 lemonhd.org,domestic,offline,LeagueHD - 柠檬
-longpt.org,domestic,down,LongPT - 龙PT
+longpt.org,domestic,online,LongPT - 龙PT
 monikadesign.uk,domestic,online,MonikaDesign - 莫妮卡
 mooko.org,domestic,offline,Mooko
 mtapi.m-team.cc,domestic,online,
@@ -105,13 +105,13 @@ pt.tey.cc,domestic,online,Tey - 太乙
 pt.tu88.men,domestic,unknown,TU88
 pt.vclib.online,domestic,online,VC-Lib
 pt.xingyungept.cn,domestic,online,
-pt.xingyungept.org,domestic,down,XingYunGe - 星陨阁
+pt.xingyungept.org,domestic,online,XingYunGe - 星陨阁
 pt.ying.us.kg,domestic,offline,Ying - 樱花
 ptcafe.club,domestic,online,PTCafe - 咖啡
-ptchdbits.co,domestic,down,CHDbits - 彩虹岛
+ptchdbits.co,domestic,online,CHDbits - 彩虹岛
 ptchina.org,domestic,offline,PTChina - 铂金学院
 pterclub.com,domestic,online,
-pterclub.net,domestic,down,PterClub - 猫站
+pterclub.net,domestic,online,PterClub - 猫站
 ptfans.cc,domestic,online,PTFans
 pthome.net,domestic,online,PTHome - 铂金家
 ptlao.top,domestic,online,PTLAO - 忘年桥
@@ -167,7 +167,7 @@ www.momentpt.top,domestic,online,MomentPT - 瞬间
 www.musopia.vip,domestic,online,音乐乌托邦
 www.ptlover.cc,domestic,offline,Afun
 www.pttime.org,domestic,online,PTTime - 时间
-www.ptzone.xyz,domestic,down,PTZone
+www.ptzone.xyz,domestic,online,PTZone
 www.tokyo-manga.top,domestic,online,Tokyo
 xdypt.vip,domestic,online,XDY - 修道院
 xing.xingyunge.sbs,domestic,online,
@@ -186,7 +186,7 @@ zrpt.cc,domestic,online,
 aither.cc,foreign,online,Aither
 alpharatio.cc,foreign,online,AlphaRatio
 animez.to,foreign,online,AnimeZ
-anthelion.me,foreign,down,Anthelion
+anthelion.me,foreign,online,Anthelion
 beyond-hd.me,foreign,online,BeyondHD
 bit-hdtv.com,foreign,online,
 bitporn.eu,foreign,online,BitPorn
@@ -225,7 +225,7 @@ luminarr.me,foreign,online,
 milkie.cc,foreign,online,Milkie - 奶昔
 myspleen.org,foreign,online,
 ncore.pro,foreign,online,
-nebulance.io,foreign,down,Nebulance
+nebulance.io,foreign,online,Nebulance
 orpheus.network,foreign,online,Orpheus
 polishtorrent.top,foreign,online,
 portugas.org,foreign,online,

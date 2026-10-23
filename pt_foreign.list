@@ -1,12 +1,12 @@
 # PT 站点域名规则集 - 国外/国际 PT 站点
-# 数据来源: PT监护室(savept.icu) 2026-10-22 快照 + 社区整理
+# 数据来源: PT监护室(savept.icu) 2026-10-23 快照 + 社区整理
 # 状态说明: [病危]=监控异常暂不可达  [已关站]=已关站/死亡  [状态未知]=未监测到
 # 如需直连国内站点/避免国外站点IP变动触发风控, 可整组指向直连
 DOMAIN-SUFFIX,13city.org
 DOMAIN-SUFFIX,aither.cc
 DOMAIN-SUFFIX,alpharatio.cc
 DOMAIN-SUFFIX,animez.to
-DOMAIN-SUFFIX,anthelion.me # [病危]
+DOMAIN-SUFFIX,anthelion.me
 DOMAIN-SUFFIX,beyond-hd.me
 DOMAIN-SUFFIX,bit-hdtv.com
 DOMAIN-SUFFIX,bitporn.eu
@@ -45,7 +45,7 @@ DOMAIN-SUFFIX,luminarr.me
 DOMAIN-SUFFIX,milkie.cc
 DOMAIN-SUFFIX,myspleen.org
 DOMAIN-SUFFIX,ncore.pro
-DOMAIN-SUFFIX,nebulance.io # [病危]
+DOMAIN-SUFFIX,nebulance.io
 DOMAIN-SUFFIX,orpheus.network
 DOMAIN-SUFFIX,polishtorrent.top
 DOMAIN-SUFFIX,portugas.org
