@@ -6,7 +6,7 @@ PT 站点域名规则集，适用于 **Mihomo** (Clash Meta) / Clash 内核的�
 
 ## 数据来源与时间
 
-- **PT监护室** (https://savept.icu) 快照：`2026-10-23`
+- **PT监护室** (https://savept.icu) 快照：`2026-10-24`
 - 站点存活状态、当前域名、内/外站类型均取自该监测数据
 - 原社区整理 PT 站点配置文件用于补全覆盖
 
@@ -28,9 +28,9 @@ PT 站点域名规则集，适用于 **Mihomo** (Clash Meta) / Clash 内核的�
 
 | 文件 | 分类 | 规则数 |
 |---|---|---|
-| `pt_domestic.list` | 国内 PT 站点 | 183 |
+| `pt_domestic.list` | 国内 PT 站点 | 184 |
 | `pt_foreign.list` | 国外 / 国际 PT 站点 | 65 |
-| **合计** | | **248** |
+| **合计** | | **249** |
 
 > 规则均为 `DOMAIN-SUFFIX` 格式（自动匹配子域）。国内列表含主站与备用/API 域名（如 m-team、xingyunge 系列）。
 
