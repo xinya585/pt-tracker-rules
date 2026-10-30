@@ -1,5 +1,5 @@
 # PT 站点域名规则集 - 国内 PT 站点
-# 数据来源: PT监护室(savept.icu) 2026-10-29 快照 + 社区整理
+# 数据来源: PT监护室(savept.icu) 2026-10-30 快照 + 社区整理
 # 状态说明: [病危]=监控异常暂不可达  [已关站]=已关站/死亡  [状态未知]=未监测到
 # 如需直连国内站点/避免国外站点IP变动触发风控, 可整组指向直连
 DOMAIN-SUFFIX,1ptba.com
@@ -20,7 +20,7 @@ DOMAIN-SUFFIX,crabpt.vip
 DOMAIN-SUFFIX,cspt.top
 DOMAIN-SUFFIX,cyanbug.net
 DOMAIN-SUFFIX,dajiao.cyou # [已关站]
-DOMAIN-SUFFIX,dicmusic.com # [病危]
+DOMAIN-SUFFIX,dicmusic.com
 DOMAIN-SUFFIX,discfan.net
 DOMAIN-SUFFIX,dstudio.me
 DOMAIN-SUFFIX,dubhe.site
@@ -65,7 +65,7 @@ DOMAIN-SUFFIX,nanyangpt.com
 DOMAIN-SUFFIX,naturept.top
 DOMAIN-SUFFIX,new.qingwa.pro
 DOMAIN-SUFFIX,nex.jivon.de
-DOMAIN-SUFFIX,nicept.net # [病危]
+DOMAIN-SUFFIX,nicept.net
 DOMAIN-SUFFIX,njtupt.top
 DOMAIN-SUFFIX,okpt.net
 DOMAIN-SUFFIX,oldtoons.world
@@ -166,7 +166,7 @@ DOMAIN-SUFFIX,www.hitpt.com
 DOMAIN-SUFFIX,www.hxpt.org
 DOMAIN-SUFFIX,www.icc2022.com # [已关站]
 DOMAIN-SUFFIX,www.joyhd.net # [已关站]
-DOMAIN-SUFFIX,www.momentpt.top
+DOMAIN-SUFFIX,www.momentpt.top # [已关站]
 DOMAIN-SUFFIX,www.musopia.vip
 DOMAIN-SUFFIX,www.ptlover.cc # [已关站]
 DOMAIN-SUFFIX,www.pttime.org
@@ -183,6 +183,6 @@ DOMAIN-SUFFIX,yhpp.cc # [已关站]
 DOMAIN-SUFFIX,zeus.hamsters.space
 DOMAIN-SUFFIX,zhuque.in
 DOMAIN-SUFFIX,zimiao.icu
-DOMAIN-SUFFIX,zmpt.cc # [病危]
+DOMAIN-SUFFIX,zmpt.cc
 DOMAIN-SUFFIX,zmpt.club
 DOMAIN-SUFFIX,zrpt.cc
