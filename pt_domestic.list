@@ -1,5 +1,5 @@
 # PT 站点域名规则集 - 国内 PT 站点
-# 数据来源: PT监护室(savept.icu) 2026-10-30 快照 + 社区整理
+# 数据来源: PT监护室(savept.icu) 2026-10-31 快照 + 社区整理
 # 状态说明: [病危]=监控异常暂不可达  [已关站]=已关站/死亡  [状态未知]=未监测到
 # 如需直连国内站点/避免国外站点IP变动触发风控, 可整组指向直连
 DOMAIN-SUFFIX,1ptba.com
@@ -175,7 +175,7 @@ DOMAIN-SUFFIX,www.tokyo-manga.top
 DOMAIN-SUFFIX,www.uhddolby.com
 DOMAIN-SUFFIX,xdypt.vip
 DOMAIN-SUFFIX,xing.xingyunge.sbs
-DOMAIN-SUFFIX,xingtan.one
+DOMAIN-SUFFIX,xingtan.one # [病危]
 DOMAIN-SUFFIX,xingwan.cc
 DOMAIN-SUFFIX,xingyungept.org
 DOMAIN-SUFFIX,yemapt.org
