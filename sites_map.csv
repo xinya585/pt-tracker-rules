@@ -1,10 +1,10 @@
 domain,group,status,name
 1ptba.com,domestic,online,1PTBa
-52pt.site,domestic,down,52PT
+52pt.site,domestic,online,52PT
 abroad.agsvpt.com,domestic,online,
 agsvpt.com,domestic,online,
 api.m-team.cc,domestic,online,
-audiences.me,domestic,down,Audiences - 观众
+audiences.me,domestic,online,Audiences - 观众
 azusa.wiki,domestic,online,Azusa - 梓喵
 bilibili.download,domestic,online,Railgun
 byr.pt,domestic,unknown,
@@ -13,12 +13,12 @@ carpt.net,domestic,online,CarPT - 车站
 cc.mypt.cc,domestic,online,
 cf.hdkylin.com,domestic,online,
 club.hares.top,domestic,offline,HaresClub - 白兔
-crabpt.vip,domestic,down,CrabPT - 蟹黄堡
+crabpt.vip,domestic,online,CrabPT - 蟹黄堡
 cspt.top,domestic,online,CSPT - 财神
 cyanbug.net,domestic,online,Cyanbug - 大青虫
 dajiao.cyou,domestic,offline,Dajiao - 打胶
 dicmusic.com,domestic,online,DicMusic - 海豚
-discfan.net,domestic,down,DiscFan - 蝶粉
+discfan.net,domestic,online,DiscFan - 蝶粉
 dstudio.me,domestic,online,Depth Studio
 dubhe.site,domestic,online,Dubhe - 天枢
 duckboobee.org,domestic,online,March - 三月传媒
@@ -40,8 +40,8 @@ hdpt.xyz,domestic,offline,HDPT - 明教
 hdsky.me,domestic,online,HDSky - 天空
 hdtime.org,domestic,online,HDTime - 时光
 hdvideo.one,domestic,online,
-hdvideo.top,domestic,down,HDVideo
-hhanclub.net,domestic,down,HHanClub - 憨憨
+hdvideo.top,domestic,online,HDVideo
+hhanclub.net,domestic,online,HHanClub - 憨憨
 hspt.club,domestic,offline,HSPT - 回声
 htpt.cc,domestic,online,HTPT - 海棠
 hudbt.hust.edu.cn,domestic,unknown,HUDBT - 蝴蝶
@@ -53,7 +53,7 @@ lemonhd.club,domestic,offline,LemonHD - 柠檬不酸
 lemonhd.net,domestic,online,LemonHDNet - 柠檬不甜
 lemonhd.org,domestic,offline,LeagueHD - 柠檬
 longpt.org,domestic,online,LongPT - 龙PT
-monikadesign.uk,domestic,down,MonikaDesign - 莫妮卡
+monikadesign.uk,domestic,online,MonikaDesign - 莫妮卡
 mooko.org,domestic,offline,Mooko
 mtapi.m-team.cc,domestic,online,
 mua.xloli.cc,domestic,online,ilolicon - 萝莉
@@ -62,7 +62,7 @@ nanyangpt.com,domestic,online,NanYangPT - 南洋
 naturept.top,domestic,down,ZRPT - 自然
 new.qingwa.pro,domestic,online,
 nex.jivon.de,domestic,online,
-nicept.net,domestic,down,NicePT - 老师
+nicept.net,domestic,online,NicePT - 老师
 njtupt.top,domestic,online,NJTUPT - 浦园
 okpt.net,domestic,online,OKPT
 oldtoons.world,domestic,online,
@@ -100,7 +100,7 @@ pt.mypt.cc,domestic,online,MYPT - 我的PT
 pt.novahd.top,domestic,online,
 pt.ourhelp.club,domestic,online,
 pt.sjtu.edu.cn,domestic,online,SJTU - 葡萄
-pt.soulvoice.club,domestic,down,SoulVoice - 聆音
+pt.soulvoice.club,domestic,online,SoulVoice - 聆音
 pt.tey.cc,domestic,online,Tey - 太乙
 pt.tu88.men,domestic,unknown,TU88
 pt.vclib.online,domestic,online,VC-Lib
@@ -111,7 +111,7 @@ ptcafe.club,domestic,online,PTCafe - 咖啡
 ptchdbits.co,domestic,online,CHDbits - 彩虹岛
 ptchina.org,domestic,offline,PTChina - 铂金学院
 pterclub.com,domestic,online,
-pterclub.net,domestic,down,PterClub - 猫站
+pterclub.net,domestic,online,PterClub - 猫站
 ptfans.cc,domestic,online,PTFans
 pthome.net,domestic,online,PTHome - 铂金家
 ptlao.top,domestic,offline,PTLAO - 忘年桥
@@ -122,7 +122,7 @@ ptskit.com,domestic,online,
 ptskit.org,domestic,online,PTSkit - 拾刻
 ptvicomo.net,domestic,offline,PTVicomo - 象岛
 public.ecustpt.eu.org,domestic,online,
-qingwapt.com,domestic,down,QingWaPT - 青蛙
+qingwapt.com,domestic,online,QingWaPT - 青蛙
 raingfh.top,domestic,offline,Raingfh - 雨
 rousi.pro,domestic,online,ROUSI - 肉丝
 sanpro.pw,domestic,online,
@@ -164,12 +164,12 @@ www.hxpt.org,domestic,online,HXPT - 好学
 www.icc2022.com,domestic,offline,ICC2022 - 冰淇淋
 www.joyhd.net,domestic,offline,JoyHD
 www.momentpt.top,domestic,offline,MomentPT - 瞬间
-www.musopia.vip,domestic,down,音乐乌托邦
+www.musopia.vip,domestic,online,音乐乌托邦
 www.ptlover.cc,domestic,offline,Afun
 www.pttime.org,domestic,online,PTTime - 时间
 www.ptzone.xyz,domestic,online,PTZone
 www.tokyo-manga.top,domestic,online,Tokyo
-www.uhddolby.com,domestic,down,HDDolby - 杜比
+www.uhddolby.com,domestic,online,HDDolby - 杜比
 xdypt.vip,domestic,online,XDY - 修道院
 xing.xingyunge.sbs,domestic,online,
 xingtan.one,domestic,online,XingTan - 杏坛
@@ -186,7 +186,7 @@ zrpt.cc,domestic,online,
 13city.org,foreign,online,13City
 aither.cc,foreign,online,Aither
 alpharatio.cc,foreign,online,AlphaRatio
-animez.to,foreign,down,AnimeZ
+animez.to,foreign,online,AnimeZ
 anthelion.me,foreign,online,Anthelion
 beyond-hd.me,foreign,online,BeyondHD
 bit-hdtv.com,foreign,online,
